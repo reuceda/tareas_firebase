@@ -1,0 +1,17 @@
+/*.dart_tool
+/*.idea
+/android
+/build
+/ios
+/linux
+/macos
+/web
+/windows
+*.firebaserc
+*.lock
+*.yaml
+*.json
+*.flutter-plugins-dependencies
+*.flutter-plugins
+*.rules
+*.iml
